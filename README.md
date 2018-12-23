@@ -1,5 +1,5 @@
-# SimpleAnalogyApp
-Simple App that allows user to enter multiple words to get a related analogy.
+# AnalogyGury
+Simple Analogy app that allows user to enter multiple words to get a related analogy.
 Written in Java, for Android devices.
 
 # Description
@@ -17,5 +17,9 @@ Returns
 If the input is invalid, it either returns a toast with an error.
 Or
 It displays if the app does not have a related analogy.
+
+# Resources
+App Icon
+Icon made by Freepik from https://www.freepik.com
 
 by Deivis Dervinis, 2018
