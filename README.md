@@ -19,7 +19,7 @@ Or
 It displays if the app does not have a related analogy.
 
 # Resources
-App Icon
+App
 Icon made by Freepik from https://www.freepik.com
 
 by Deivis Dervinis, 2018
