@@ -14,6 +14,8 @@ Returns
 > "Relating with certain people puts you in a box, they choke you with their many demands, limitations and expectations.
 > With certain others, you’re free to be you, free as air, free to grow, to explore, to live, to love."
 
+![Analogy_Guru](/example.png)
+
 If the input is invalid, it either returns a toast with an error.
 Or
 It displays if the app does not have a related analogy.
